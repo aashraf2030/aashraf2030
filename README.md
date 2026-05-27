@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ashraf</h1>
-<h3 align="center">Software Engineer | Project Optimizer | MEAN Stack Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashraf2030&label=Profile%20views&color=0e75b6&style=flat" alt="aashraf2030" /> </p>
 
