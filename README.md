@@ -73,7 +73,7 @@ I care about:
 ### 🧰 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,azure,gcp" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
 </p>
 
 ---
