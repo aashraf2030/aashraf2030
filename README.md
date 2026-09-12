@@ -55,7 +55,7 @@ I care about:
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mariadb,sqlite,sqlserver" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,sqlserver" />
 </p>
 
 ### 🔐 Authentication & Security
