@@ -49,7 +49,7 @@ I care about:
 ### 🎨 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=angular,nextjs,js,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=angular,js,tailwind,bootstrap" />
 </p>
 
 ### 🗄️ Databases
