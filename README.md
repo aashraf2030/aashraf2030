@@ -90,7 +90,6 @@ I care about:
 * RESTful API Design
 * Node.js & Express.js
 * TypeScript
-* .NET / C#
 * Laravel / PHP
 * Prisma ORM
 * Authentication & Authorization
@@ -188,7 +187,6 @@ I'm currently focusing on becoming a stronger **Backend / Software Engineer** by
 
 * Advanced TypeScript
 * Node.js Architecture
-* .NET Backend Development
 * Database Architecture
 * API Security
 * Clean Architecture
